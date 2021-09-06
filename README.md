@@ -1,5 +1,5 @@
 <p>Hi, I’m Thomas Frank.</p>	
-<p>I’m an aspiring Data Scientist / Analyst with over 5 years experience in the Environmental Industry, looking to move into a predominantly data based role.</p> 
+<p>I’m an aspiring Data Scientist / Analyst student with over 5 years experience in the Environmental Engineering field, looking to move into a predominantly data based role.</p> 
 <p>I’m self-taught in SQL and Python with my Data Science Masters at UNSW set to begin in late 2021.</p>
 <p>You can reach me at thomasfrank415@gmail.com</p>
 
