@@ -1,6 +1,6 @@
 <p>Hi, I’m Thomas Frank.</p>	
-<p>I’m an aspiring Data Scientist / Analyst with over 5 years experience in the Environmental Engineering field, looking to move into a predominantly data based role.</p> 
-<p>I’m self-taught in SQL and Python with my Data Science Masters at UNSW set to begin in late 2021.</p>
+<p>I'm a passionate Data Analyst / Scientist with over 6 years of professional experience, first in the Environmental Engineering field and now in the Data Science industry.</p> 
+<p>I’m self-taught in SQL and Python and have since honed my skills after joining Seek as an Associate Digital Analyst (Product Analytics) in 2021 where I complete complex queries (CTE's, Window Functions, etc.) to deliver insights using rich datasets while working alongside a high calibre team of data analysts embedded into fully resourced product teams.</p>
 <p>You can reach me at thomasfrank415@gmail.com</p>
 
 <!---
